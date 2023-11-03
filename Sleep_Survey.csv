@@ -1,0 +1,109 @@
+Timestamp,Gender,Do you have any known sleep disorders?,Daily sleep duration,Rate the quality of your sleep,Please select any common factors that disturb your sleep,"Do you use electronic devices (smartphones, tablets, computers) before bedtime?", Do you consume caffeine or alcohol close to bedtime? ,What do you believe is the primary reason for your sleeplessness? (Select the most relevant option),Have you made any efforts to improve your sleep quality or reduce sleeplessness? (Select all that apply),"If you are presented with a device which would help to address your current difficulties in sleeping, how much would you be willing to pay?"
+10/20/2023 12:54:52,Male,No,4 - 6 hours,3,"Light, Uncomfortable mattress or bedding, sweating",Yes,Yes,Irregular sleep schedule,"None of the above, reduced previous habits of caffeine before bed",
+10/22/2023 19:17:20,Female,No,6 - 8 hours,3,"Stress, Noise, Light, Physical pain",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Practiced relaxation techniques",
+10/22/2023 19:18:29,Female,No,4 - 6 hours,2,"Stress, Uncomfortable mattress or bedding, Physical pain, Restless legs, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment",
+10/22/2023 20:23:13,Prefer not to say,Yes,4 - 6 hours,2,"Stress, Noise, Light, Physical pain, Restless legs",Yes,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment, Used sleep aids or medications, Consulted a healthcare professional",
+10/22/2023 20:26:35,Female,No,6 - 8 hours,3,Heat,Yes,No,"Noise and disturbances, Heat","Changed bedtime routine, Adjusted bedroom environment",
+10/22/2023 20:26:49,Female,No,6 - 8 hours,4,"Stress, Noise",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances","Changed bedtime routine, Practiced relaxation techniques",
+10/22/2023 20:39:54,Female,No,6 - 8 hours,4,"Stress, Noise, Light, Uncomfortable mattress or bedding, Physical pain, Restless legs",Yes,No,"Stress and Anxiety, Noise and disturbances, Irregular sleep schedule",Changed bedtime routine,
+10/22/2023 21:41:32,Female,No,6 - 8 hours,4,"Noise, Physical pain, Restless legs",Yes,No,"Physical discomfort or pain, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment",
+10/22/2023 22:50:13,Female,No,6 - 8 hours,3,Stress,Yes,No,Stress and Anxiety,Changed bedtime routine,
+10/23/2023 9:33:56,Female,No,6 - 8 hours,5,"Noise, Light, Uncomfortable mattress or bedding",Yes,No,"Noise and disturbances, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment",
+10/23/2023 12:22:27,Female,Yes,4 - 6 hours,3,Stress,Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment, Practiced relaxation techniques",
+10/26/2023 20:08:11,Female,No,6 - 8 hours,3,"Stress, Uncomfortable mattress or bedding, Physical pain",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Adjusted bedroom environment, Practiced relaxation techniques",
+10/26/2023 20:09:19,Female,Yes,10+ hours,1,Stress,Yes,Yes,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment, Practiced relaxation techniques",
+10/26/2023 20:11:00,Male,No,6 - 8 hours,3,"Stress, Noise, Light, Uncomfortable mattress or bedding",Yes,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment",
+10/26/2023 20:12:49,Male,No,6 - 8 hours,4,"Noise, Physical pain",Yes,No,Physical discomfort or pain,Adjusted bedroom environment,
+10/26/2023 20:23:41,Male,No,6 - 8 hours,4,"Uncomfortable mattress or bedding, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",None,
+10/26/2023 20:26:19,Male,Yes,4 - 6 hours,2,"Light, Uncomfortable mattress or bedding",Yes,Yes,"Work or study-related factors, Irregular sleep schedule",Adjusted bedroom environment,
+10/26/2023 20:40:09,Male,No,6 - 8 hours,4,"Noise, Light",Yes,No,Noise and disturbances,Adjusted bedroom environment,
+10/26/2023 21:06:20,Prefer not to say,Yes,4 - 6 hours,1,"Stress, Noise, Uncomfortable mattress or bedding, Physical pain",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Work or study-related factors",Used sleep aids or medications,
+10/26/2023 22:14:59,Female,No,6 - 8 hours,3,"Physical pain, Restless legs",Yes,No,"Physical discomfort or pain, Irregular sleep schedule",Changed bedtime routine,
+10/26/2023 23:25:27,Male,No,4 - 6 hours,5,"Noise, Light, Uncomfortable mattress or bedding, Physical pain",Yes,No,"Physical discomfort or pain, Noise and disturbances, Irregular sleep schedule",Adjusted bedroom environment,
+10/27/2023 7:37:38,Male,No,4 - 6 hours,4,Frequent bathroom trips,Yes,No,Irregular sleep schedule,Changed bedtime routine,
+10/27/2023 7:44:31,Male,No,6 - 8 hours,4,"Stress, Noise, Light, Uncomfortable mattress or bedding, Restless legs",Yes,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors, Irregular sleep schedule",Adjusted bedroom environment,
+10/27/2023 10:31:07,Male,No,6 - 8 hours,3,Noise,Yes,No,Work or study-related factors,Changed bedtime routine,
+10/27/2023 10:31:25,Male,No,6 - 8 hours,4,Frequent bathroom trips,Yes,No,Irregular sleep schedule,Changed bedtime routine,
+10/27/2023 10:31:36,Male,No,6 - 8 hours,3,"Stress, Light, Uncomfortable mattress or bedding",Yes,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors, Irregular sleep schedule",Practiced relaxation techniques,
+10/27/2023 10:32:31,Male,No,6 - 8 hours,4,"Noise, Light",Yes,No,Irregular sleep schedule,Adjusted bedroom environment,
+10/27/2023 10:32:58,Male,No,6 - 8 hours,2,"Stress, Physical pain, Restless legs",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Irregular sleep schedule",Changed bedtime routine,
+10/27/2023 10:33:59,Male,No,6 - 8 hours,3,Alarm,Yes,No,"Work or study-related factors, Irregular sleep schedule",Adjusted bedroom environment,
+10/27/2023 10:38:19,Male,No,6 - 8 hours,3,"Stress, Noise, Light, Uncomfortable mattress or bedding, Physical pain",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances","Changed bedtime routine, Practiced relaxation techniques",
+10/27/2023 10:42:16,Female,No,6 - 8 hours,4,"Stress, Uncomfortable mattress or bedding, Physical pain",Yes,No,Stress and Anxiety,Adjusted bedroom environment,
+10/27/2023 10:42:17,Male,No,4 - 6 hours,4,Frequent bathroom trips,Yes,No,Irregular sleep schedule,Changed bedtime routine,
+10/27/2023 10:52:32,Male,No,4 - 6 hours,2,"Noise, Uncomfortable mattress or bedding",Yes,No,"Work or study-related factors, Irregular sleep schedule",Changed bedtime routine,
+10/27/2023 10:56:40,Male,No,6 - 8 hours,5,Noise,Yes,No,Work or study-related factors,"Daily physical activity like gym, sports ",
+10/27/2023 11:17:23,Male,No,8 - 10 hours,5,I sleep well,Yes,No,Irregular sleep schedule,Nothing ,
+10/27/2023 11:18:13,Male,No,6 - 8 hours,5,"Light, Restless legs",Yes,No,"Noise and disturbances, Work or study-related factors",No,
+10/27/2023 11:46:39,Male,No,6 - 8 hours,3,Light,No,No,Irregular sleep schedule,Practiced relaxation techniques,
+10/27/2023 11:47:30,Male,No,6 - 8 hours,3,Stress,Yes,No,Stress and Anxiety,Changed bedtime routine,
+10/27/2023 11:48:20,Male,No,6 - 8 hours,3,"Noise, Light, Uncomfortable mattress or bedding",Yes,No,Irregular sleep schedule,Changed bedtime routine,
+10/27/2023 12:40:09,Male,No,6 - 8 hours,4,"Stress, Noise",Yes,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors, Irregular sleep schedule",Changed bedtime routine,
+10/27/2023 12:58:54,Male,No,6 - 8 hours,4,Light,Yes,No,"Noise and disturbances, Work or study-related factors",No efforts made,
+10/27/2023 13:06:49,Male,No,6 - 8 hours,3,"Stress, Noise, Uncomfortable mattress or bedding",Yes,No,Work or study-related factors,"Changed bedtime routine, Adjusted bedroom environment",
+10/27/2023 14:43:38,Male,No,6 - 8 hours,4,Uncomfortable mattress or bedding,Yes,No,"Physical discomfort or pain, Irregular sleep schedule",Changed bedtime routine,
+10/28/2023 9:43:51,Male,No,8 - 10 hours,4,Stress,Yes,No,Work or study-related factors,Changed bedtime routine,Not willing to pay
+10/28/2023 15:41:53,Male,No,6 - 8 hours,4,"Noise, Light",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Practiced relaxation techniques",Not willing to pay
+10/29/2023 18:15:51,Male,No,6 - 8 hours,3,"Stress, Physical pain, Restless legs",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Work or study-related factors",Practiced relaxation techniques,Not willing to pay
+10/29/2023 20:14:35,Male,No,4 - 6 hours,2,"Stress, Light, Uncomfortable mattress or bedding, Physical pain, Restless legs",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances, Work or study-related factors, Irregular sleep schedule",Changed bedtime routine,Not willing to pay
+10/30/2023 15:36:53,Male,No,8 - 10 hours,5,Noise,Yes,No,Stress and Anxiety,Adjusted bedroom environment,Not willing to pay
+10/30/2023 15:37:02,Male,No,6 - 8 hours,5,Stress,Yes,No,Irregular sleep schedule,Changed bedtime routine,Not willing to pay
+10/30/2023 15:38:30,Male,No,8 - 10 hours,5,"Noise, Light",Yes,No,Noise and disturbances,No,Not willing to pay
+10/30/2023 15:39:55,Male,No,4 - 6 hours,4,Uncomfortable mattress or bedding,Yes,No,Work or study-related factors,Nothing,Not willing to pay
+10/30/2023 15:40:34,Male,No,6 - 8 hours,3,Phone and exames,Yes,No,Work or study-related factors,Consulted a healthcare professional,Not willing to pay
+10/30/2023 15:41:01,Male,No,6 - 8 hours,3,"Stress, Light",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",Changed bedtime routine,not about the money will buy if its worth
+10/30/2023 15:41:17,Female,No,6 - 8 hours,3,"Noise, Light",Yes,No,Irregular sleep schedule,Changed bedtime routine,Not willing to pay
+10/30/2023 15:43:13,Male,No,8 - 10 hours,3,Light,Yes,Yes,Work or study-related factors,Changed bedtime routine,Not willing to pay
+10/30/2023 15:43:16,Male,No,6 - 8 hours,4,"Stress, Heartache and non IITian guilt(I genuinely mean it not trying to joke)",Yes,No,"Stress and Anxiety, Work or study-related factors",Nope,Not willing to pay
+10/30/2023 15:43:36,Female,No,8 - 10 hours,5,"Stress, Noise, Light, Restless legs",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",Practiced relaxation techniques,Not willing to pay
+10/30/2023 15:44:26,Prefer not to say,No,6 - 8 hours,3,"Light, Frequent bathroom trips",Yes,No,Irregular sleep schedule,"Changed bedtime routine, Adjusted bedroom environment",Not willing to pay
+10/30/2023 15:46:09,Male,No,6 - 8 hours,5,Physical pain,Yes,No,Irregular sleep schedule,Changed bedtime routine,Not willing to pay
+10/30/2023 15:49:11,Male,No,6 - 8 hours,4,"Noise, Light",Yes,No,Irregular sleep schedule,Changed bedtime routine,Not willing to pay
+10/30/2023 15:52:01,Male,No,6 - 8 hours,3,"Noise, Light",Yes,No,"Noise and disturbances, Work or study-related factors","Adjusted bedroom environment, Practiced relaxation techniques",Not willing to pay
+10/30/2023 15:53:22,Male,No,6 - 8 hours,4,"Stress, Light",Yes,No,"Stress and Anxiety, Noise and disturbances, Irregular sleep schedule",Adjusted bedroom environment,2000
+10/30/2023 15:53:56,Male,No,6 - 8 hours,3,"Noise, Light",No,No,"Noise and disturbances, Work or study-related factors",Changed bedtime routine,Not willing to pay
+10/30/2023 15:56:32,Female,No,4 - 6 hours,3,"Stress, Light",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",Changed bedtime routine,Not willing to pay
+10/30/2023 15:58:26,Male,No,6 - 8 hours,3,Stress,No,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors","Practiced relaxation techniques, Consulted a healthcare professional",Not willing to pay
+10/30/2023 15:58:30,Female,Yes,6 - 8 hours,4,"Stress, Uncomfortable mattress or bedding, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",--,250-500
+10/30/2023 16:05:28,Male,No,4 - 6 hours,1,"Stress, Uncomfortable mattress or bedding, too much work load",No,No,"Stress and Anxiety, Work or study-related factors",stopped doing work,Not willing to pay
+10/30/2023 16:08:01,Female,No,4 - 6 hours,3,"Noise, Light, Frequent bathroom trips",Yes,No,"Work or study-related factors, Irregular sleep schedule",Changed bedtime routine,1000
+10/30/2023 16:09:36,Male,No,6 - 8 hours,4,"Noise, Light, Uncomfortable mattress or bedding",Yes,No,Noise and disturbances,Adjusted bedroom environment,Not willing to pay
+10/30/2023 16:17:54,Female,No,6 - 8 hours,3,"Noise, Light, Physical pain, Restless legs",Yes,No,"Physical discomfort or pain, Noise and disturbances",Changed bedtime routine,2000
+10/30/2023 16:19:18,Male,No,6 - 8 hours,3,"Stress, Noise, Light",Yes,No,"Stress and Anxiety, Noise and disturbances",Changed bedtime routine,Not willing to pay
+10/30/2023 16:26:19,Male,Yes,4 - 6 hours,1,"Physical pain, sleep paralysis and lucid dreams",Yes,No,"Physical discomfort or pain, lucid dreams and nightmares ",Used sleep aids or medications,Not willing to pay
+10/30/2023 16:28:48,Male,No,6 - 8 hours,4,"Noise, Light",Yes,No,Noise and disturbances,"Changed bedtime routine, Practiced relaxation techniques",If it is worthy enough i can pay
+10/30/2023 16:29:22,Male,Yes,6 - 8 hours,3,"Noise, Light, Uncomfortable mattress or bedding, Physical pain, Restless legs",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule","Adjusted bedroom environment, Consulted a healthcare professional",Not willing to pay
+10/30/2023 16:31:20,Male,No,6 - 8 hours,4,"Noise, Light",No,No,Noise and disturbances,Adjusted bedroom environment,Not willing to pay
+10/30/2023 16:40:10,Female,No,4 - 6 hours,3,"Stress, Noise, Light",Yes,No,"Stress and Anxiety, Noise and disturbances, Irregular sleep schedule",Practiced relaxation techniques,Not willing to pay
+10/30/2023 16:41:43,Male,No,6 - 8 hours,4,Light,Yes,No,"Noise and disturbances, Work or study-related factors","Adjusted bedroom environment, Practiced relaxation techniques",Not willing to pay
+10/30/2023 16:50:03,Male,No,8 - 10 hours,3,Light,Yes,No,Stress and Anxiety,Practiced relaxation techniques,Not willing to pay
+10/30/2023 16:54:12,Male,No,6 - 8 hours,3,"Stress, Light",Yes,No,Work or study-related factors,Changed bedtime routine,Not willing to pay
+10/30/2023 16:54:22,Male,No,6 - 8 hours,4,"Stress, Light",Yes,No,Work or study-related factors,Changed bedtime routine,Not willing to pay
+10/30/2023 17:08:19,Female,No,6 - 8 hours,5,Nothing,Yes,No,Work or study-related factors,Changed bedtime routine,Not willing to pay
+10/30/2023 17:26:18,Male,No,8 - 10 hours,4,"Noise, Light",Yes,No,Noise and disturbances,Adjusted bedroom environment,"Not willing,Because I am getting more than enough sleep "
+10/30/2023 17:26:56,Male,Yes,4 - 6 hours,2,Noise,No,No,Work or study-related factors,Changed bedtime routine,Not willing to pay
+10/30/2023 17:58:35,Male,No,4 - 6 hours,4,Can't sleep in the cold without bedsheets,Yes,No,Haven't faced sleeplessness as of now. But work related factors probably don't let me sleep.,Haven't faced sleeplessness as of now.,Around 1k
+10/30/2023 18:21:01,Female,No,4 - 6 hours,3,"Stress, Uncomfortable mattress or bedding, Restless legs",Yes,No,"Stress and Anxiety, Irregular sleep schedule",Changed bedtime routine,"Yes,if it can make me motivated to use it"
+10/30/2023 19:10:59,Male,No,6 - 8 hours,4,Light,Yes,No,"Work or study-related factors, Irregular sleep schedule",Changed bedtime routine,Not willing to pay
+10/30/2023 19:40:07,Female,No,6 - 8 hours,5,Uncomfortable mattress or bedding,Yes,No,"Work or study-related factors, Irregular sleep schedule",I hug my pillow or teddy bear .it gives comfort and will help improve my sleep quality ,Not willing to pay
+10/30/2023 20:35:46,Male,No,6 - 8 hours,5,Light,Yes,No,Noise and disturbances,Changed bedtime routine,Not willing to pay
+10/30/2023 20:55:49,Male,No,4 - 6 hours,3,Assignments ,Yes,No,Work or study-related factors,Changed bedtime routine,500 rupees 
+10/30/2023 21:05:17,Male,No,6 - 8 hours,4,"Stress, Noise, Light, Uncomfortable mattress or bedding, Physical pain, Restless legs",Yes,No,Stress and Anxiety,"Changed bedtime routine, Adjusted bedroom environment",Not willing to pay
+10/30/2023 22:08:36,Male,No,6 - 8 hours,4,"Stress, Light",Yes,No,Work or study-related factors,Changed bedtime routine,Not willing to pay
+10/30/2023 22:15:31,Male,No,4 - 6 hours,3,"Stress, Light, Restless legs",Yes,No,"Work or study-related factors, Irregular sleep schedule","Adjusted bedroom environment, Practiced relaxation techniques",Not willing to pay
+10/30/2023 22:50:38,Male,No,6 - 8 hours,4,"Stress, Noise, Light, Uncomfortable mattress or bedding, Physical pain, Frequent bathroom trips",Yes,No,Work or study-related factors,Changed bedtime routine,Not willing to pay
+10/30/2023 22:51:09,Male,No,6 - 8 hours,4,"Stress, Noise, Light",Yes,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment",Not willing to pay
+10/30/2023 22:51:50,Male,No,6 - 8 hours,3,"Stress, Physical pain, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",None,100
+10/30/2023 23:00:12,Male,No,6 - 8 hours,5,No disturbance ,Yes,No,I don't have sleeplessness ,I already have good sleep quality ,I don't need the device because I don't have that problem 
+10/30/2023 23:24:32,Male,No,4 - 6 hours,3,None,Yes,No,"Work or study-related factors, Irregular sleep schedule",None,Not willing to pay
+10/31/2023 0:02:50,Male,No,6 - 8 hours,4,Stress,Yes,No,Irregular sleep schedule,None,Not willing to pay
+10/31/2023 0:57:20,Female,,4 - 6 hours,2,Stress,No,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule","Adjusted bedroom environment, Practiced relaxation techniques",Not willing to pay
+10/31/2023 1:07:06,Male,No,6 - 8 hours,3,"Noise, Light, Uncomfortable mattress or bedding, Restless legs",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment",Not willing to pay
+10/31/2023 6:55:02,Male,No,6 - 8 hours,3,"Stress, Uncomfortable mattress or bedding",Yes,No,"Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment",Not willing to pay
+10/31/2023 7:07:27,Male,No,4 - 6 hours,1,Light,Yes,No,Work or study-related factors,Changed bedtime routine,Not willing to pay
+10/31/2023 10:21:48,Female,No,6 - 8 hours,3,"Stress, Restless legs",Yes,No,"Physical discomfort or pain, Work or study-related factors",Adjusted bedroom environment,20k-30k Rs
+10/31/2023 11:40:22,Male,No,6 - 8 hours,5,4 sinus are blocked by infection...so it's difficult to breathe while sleeping,Yes,No,No sleeplessness ,No as there is no sleeplessness ,No as I know my difficulty by just visiting a ENT doctor
+10/31/2023 12:40:31,Male,No,4 - 6 hours,3,"Stress, Light, Uncomfortable mattress or bedding",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Work or study-related factors",Adjusted bedroom environment,Below 1000 rupees 
+10/31/2023 16:33:56,Male,No,6 - 8 hours,4,"Noise, Overthinking @ 2",No,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors","Changed bedtime routine, Adjusted bedroom environment, Jogging ",Maybe around 1500-2000 (inr*)
+11/1/2023 8:11:13,Female,No,6 - 8 hours,5,"Stress, Noise, Light",No,No,Noise and disturbances,Changed bedtime routine,Nothing 
+11/1/2023 15:36:52,Male,No,6 - 8 hours,4,Uncomfortable mattress or bedding,Yes,No,Irregular sleep schedule,"Adjusted bedroom environment, Practiced relaxation techniques",Not willing to pay
