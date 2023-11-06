@@ -14,7 +14,7 @@ Female,No,6 - 8 hours,3,"Stress, Uncomfortable mattress or bedding, Physical pai
 Female,Yes,10+ hours,1,Stress,Yes,Yes,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment, Practiced relaxation techniques"
 Male,No,6 - 8 hours,3,"Stress, Noise, Light, Uncomfortable mattress or bedding",Yes,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment"
 Male,No,6 - 8 hours,4,"Noise, Physical pain",Yes,No,Physical discomfort or pain,Adjusted bedroom environment
-Male,No,6 - 8 hours,4,"Uncomfortable mattress or bedding, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",
+Male,No,6 - 8 hours,4,"Uncomfortable mattress or bedding, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",None of the above
 Male,Yes,4 - 6 hours,2,"Light, Uncomfortable mattress or bedding",Yes,Yes,"Work or study-related factors, Irregular sleep schedule",Adjusted bedroom environment
 Male,No,6 - 8 hours,4,"Noise, Light",Yes,No,Noise and disturbances,Adjusted bedroom environment
 Prefer not to say,Yes,4 - 6 hours,1,"Stress, Noise, Uncomfortable mattress or bedding, Physical pain",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Work or study-related factors",Used sleep aids or medications
@@ -33,13 +33,13 @@ Female,No,6 - 8 hours,4,"Stress, Uncomfortable mattress or bedding, Physical pai
 Male,No,4 - 6 hours,4,Frequent bathroom trips,Yes,No,Irregular sleep schedule,Changed bedtime routine
 Male,No,4 - 6 hours,2,"Noise, Uncomfortable mattress or bedding",Yes,No,"Work or study-related factors, Irregular sleep schedule",Changed bedtime routine
 Male,No,6 - 8 hours,5,Noise,Yes,No,Work or study-related factors,"Daily physical activity like gym, sports "
-Male,No,8 - 10 hours,5,I sleep well,Yes,No,Irregular sleep schedule,
-Male,No,6 - 8 hours,5,"Light, Restless legs",Yes,No,"Noise and disturbances, Work or study-related factors",
+Male,No,8 - 10 hours,5,None of the above,Yes,No,Irregular sleep schedule,None of the above
+Male,No,6 - 8 hours,5,"Light, Restless legs",Yes,No,"Noise and disturbances, Work or study-related factors",None of the above
 Male,No,6 - 8 hours,3,Light,No,No,Irregular sleep schedule,Practiced relaxation techniques
 Male,No,6 - 8 hours,3,Stress,Yes,No,Stress and Anxiety,Changed bedtime routine
 Male,No,6 - 8 hours,3,"Noise, Light, Uncomfortable mattress or bedding",Yes,No,Irregular sleep schedule,Changed bedtime routine
 Male,No,6 - 8 hours,4,"Stress, Noise",Yes,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors, Irregular sleep schedule",Changed bedtime routine
-Male,No,6 - 8 hours,4,Light,Yes,No,"Noise and disturbances, Work or study-related factors",No efforts made
+Male,No,6 - 8 hours,4,Light,Yes,No,"Noise and disturbances, Work or study-related factors",None of the above
 Male,No,6 - 8 hours,3,"Stress, Noise, Uncomfortable mattress or bedding",Yes,No,Work or study-related factors,"Changed bedtime routine, Adjusted bedroom environment"
 Male,No,6 - 8 hours,4,Uncomfortable mattress or bedding,Yes,No,"Physical discomfort or pain, Irregular sleep schedule",Changed bedtime routine
 Male,No,8 - 10 hours,4,Stress,Yes,No,Work or study-related factors,Changed bedtime routine
@@ -48,13 +48,13 @@ Male,No,6 - 8 hours,3,"Stress, Physical pain, Restless legs",Yes,No,"Stress and 
 Male,No,4 - 6 hours,2,"Stress, Light, Uncomfortable mattress or bedding, Physical pain, Restless legs",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances, Work or study-related factors, Irregular sleep schedule",Changed bedtime routine
 Male,No,8 - 10 hours,5,Noise,Yes,No,Stress and Anxiety,Adjusted bedroom environment
 Male,No,6 - 8 hours,5,Stress,Yes,No,Irregular sleep schedule,Changed bedtime routine
-Male,No,8 - 10 hours,5,"Noise, Light",Yes,No,Noise and disturbances,
-Male,No,4 - 6 hours,4,Uncomfortable mattress or bedding,Yes,No,Work or study-related factors,
+Male,No,8 - 10 hours,5,"Noise, Light",Yes,No,Noise and disturbances,None of the above
+Male,No,4 - 6 hours,4,Uncomfortable mattress or bedding,Yes,No,Work or study-related factors,None of the above
 Male,No,6 - 8 hours,3,Phone and exames,Yes,No,Work or study-related factors,Consulted a healthcare professional
 Male,No,6 - 8 hours,3,"Stress, Light",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",Changed bedtime routine
 Female,No,6 - 8 hours,3,"Noise, Light",Yes,No,Irregular sleep schedule,Changed bedtime routine
 Male,No,8 - 10 hours,3,Light,Yes,Yes,Work or study-related factors,Changed bedtime routine
-Male,No,6 - 8 hours,4,"Stress, Heartache and non IITian guilt(I genuinely mean it not trying to joke)",Yes,No,"Stress and Anxiety, Work or study-related factors",
+Male,No,6 - 8 hours,4,"Stress, Heartache and non IITian guilt(I genuinely mean it not trying to joke)",Yes,No,"Stress and Anxiety, Work or study-related factors",None of the above
 Female,No,8 - 10 hours,5,"Stress, Noise, Light, Restless legs",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",Practiced relaxation techniques
 Prefer not to say,No,6 - 8 hours,3,"Light, Frequent bathroom trips",Yes,No,Irregular sleep schedule,"Changed bedtime routine, Adjusted bedroom environment"
 Male,No,6 - 8 hours,5,Physical pain,Yes,No,Irregular sleep schedule,Changed bedtime routine
@@ -64,7 +64,7 @@ Male,No,6 - 8 hours,4,"Stress, Light",Yes,No,"Stress and Anxiety, Noise and dist
 Male,No,6 - 8 hours,3,"Noise, Light",No,No,"Noise and disturbances, Work or study-related factors",Changed bedtime routine
 Female,No,4 - 6 hours,3,"Stress, Light",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",Changed bedtime routine
 Male,No,6 - 8 hours,3,Stress,No,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors","Practiced relaxation techniques, Consulted a healthcare professional"
-Female,Yes,6 - 8 hours,4,"Stress, Uncomfortable mattress or bedding, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",
+Female,Yes,6 - 8 hours,4,"Stress, Uncomfortable mattress or bedding, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",None of the above
 Male,No,4 - 6 hours,1,"Stress, Uncomfortable mattress or bedding, too much work load",No,No,"Stress and Anxiety, Work or study-related factors",stopped doing work
 Female,No,4 - 6 hours,3,"Noise, Light, Frequent bathroom trips",Yes,No,"Work or study-related factors, Irregular sleep schedule",Changed bedtime routine
 Male,No,6 - 8 hours,4,"Noise, Light, Uncomfortable mattress or bedding",Yes,No,Noise and disturbances,Adjusted bedroom environment
@@ -79,10 +79,10 @@ Male,No,6 - 8 hours,4,Light,Yes,No,"Noise and disturbances, Work or study-relate
 Male,No,8 - 10 hours,3,Light,Yes,No,Stress and Anxiety,Practiced relaxation techniques
 Male,No,6 - 8 hours,3,"Stress, Light",Yes,No,Work or study-related factors,Changed bedtime routine
 Male,No,6 - 8 hours,4,"Stress, Light",Yes,No,Work or study-related factors,Changed bedtime routine
-Female,No,6 - 8 hours,5,Nothing,Yes,No,Work or study-related factors,Changed bedtime routine
+Female,No,6 - 8 hours,5,None of the above,Yes,No,Work or study-related factors,Changed bedtime routine
 Male,No,8 - 10 hours,4,"Noise, Light",Yes,No,Noise and disturbances,Adjusted bedroom environment
 Male,Yes,4 - 6 hours,2,Noise,No,No,Work or study-related factors,Changed bedtime routine
-Male,No,4 - 6 hours,4,Can't sleep in the cold without bedsheets,Yes,No,Haven't faced sleeplessness as of now. But work related factors probably don't let me sleep.,Haven't faced sleeplessness as of now.
+Male,No,4 - 6 hours,4,Can't sleep in the cold without bedsheets,Yes,No,None of the above,None of the above
 Female,No,4 - 6 hours,3,"Stress, Uncomfortable mattress or bedding, Restless legs",Yes,No,"Stress and Anxiety, Irregular sleep schedule",Changed bedtime routine
 Male,No,6 - 8 hours,4,Light,Yes,No,"Work or study-related factors, Irregular sleep schedule",Changed bedtime routine
 Female,No,6 - 8 hours,5,Uncomfortable mattress or bedding,Yes,No,"Work or study-related factors, Irregular sleep schedule",I hug my pillow or teddy bear .it gives comfort and will help improve my sleep quality 
@@ -93,16 +93,16 @@ Male,No,6 - 8 hours,4,"Stress, Light",Yes,No,Work or study-related factors,Chang
 Male,No,4 - 6 hours,3,"Stress, Light, Restless legs",Yes,No,"Work or study-related factors, Irregular sleep schedule","Adjusted bedroom environment, Practiced relaxation techniques"
 Male,No,6 - 8 hours,4,"Stress, Noise, Light, Uncomfortable mattress or bedding, Physical pain, Frequent bathroom trips",Yes,No,Work or study-related factors,Changed bedtime routine
 Male,No,6 - 8 hours,4,"Stress, Noise, Light",Yes,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment"
-Male,No,6 - 8 hours,3,"Stress, Physical pain, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",
-Male,No,6 - 8 hours,5,No disturbance ,Yes,No,I don't have sleeplessness ,I already have good sleep quality 
-Male,No,4 - 6 hours,3,,Yes,No,"Work or study-related factors, Irregular sleep schedule",
-Male,No,6 - 8 hours,4,Stress,Yes,No,Irregular sleep schedule,
-Female,,4 - 6 hours,2,Stress,No,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule","Adjusted bedroom environment, Practiced relaxation techniques"
+Male,No,6 - 8 hours,3,"Stress, Physical pain, Frequent bathroom trips",Yes,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule",None of the above
+Male,No,6 - 8 hours,5,None of the above,Yes,No,None of the above,None of the above
+Male,No,4 - 6 hours,3,None of the above,Yes,No,"Work or study-related factors, Irregular sleep schedule",None of the above
+Male,No,6 - 8 hours,4,Stress,Yes,No,Irregular sleep schedule,None of the above
+Female,Yes,4 - 6 hours,2,Stress,No,No,"Stress and Anxiety, Work or study-related factors, Irregular sleep schedule","Adjusted bedroom environment, Practiced relaxation techniques"
 Male,No,6 - 8 hours,3,"Noise, Light, Uncomfortable mattress or bedding, Restless legs",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Noise and disturbances, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment"
 Male,No,6 - 8 hours,3,"Stress, Uncomfortable mattress or bedding",Yes,No,"Work or study-related factors, Irregular sleep schedule","Changed bedtime routine, Adjusted bedroom environment"
 Male,No,4 - 6 hours,1,Light,Yes,No,Work or study-related factors,Changed bedtime routine
 Female,No,6 - 8 hours,3,"Stress, Restless legs",Yes,No,"Physical discomfort or pain, Work or study-related factors",Adjusted bedroom environment
-Male,No,6 - 8 hours,5,4 sinus are blocked by infection...so it's difficult to breathe while sleeping,Yes,No,No sleeplessness ,No as there is no sleeplessness 
+Male,No,6 - 8 hours,5,4 sinus are blocked by infection...so it's difficult to breathe while sleeping,Yes,No,None of the above,None of the above
 Male,No,4 - 6 hours,3,"Stress, Light, Uncomfortable mattress or bedding",Yes,No,"Stress and Anxiety, Physical discomfort or pain, Work or study-related factors",Adjusted bedroom environment
 Male,No,6 - 8 hours,4,"Noise, Overthinking @ 2",No,No,"Stress and Anxiety, Noise and disturbances, Work or study-related factors","Changed bedtime routine, Adjusted bedroom environment, Jogging "
 Female,No,6 - 8 hours,5,"Stress, Noise, Light",No,No,Noise and disturbances,Changed bedtime routine
